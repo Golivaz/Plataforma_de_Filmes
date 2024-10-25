@@ -11,22 +11,15 @@ Bem-vindo à **Plataforma de Filmes**! Este projeto é um site/plataforma onde o
 - **Comentários**: Além de classificar, os usuários podem comentar sobre os filmes.
 - **Sistema de Autenticação**: Os usuários podem criar uma conta, fazer login e gerenciar suas atividades.
 - **Pesquisa de Filmes**: Busque por títulos de filmes facilmente através da barra de pesquisa.
-  
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: 
+- **Frontend**:
   - **HTML5**: Estruturação do site.
   - **CSS3**: Estilização responsiva e moderna.
   - **JavaScript**: Interatividade e funcionalidades dinâmicas no lado do cliente.
-  
-- **Backend**: 
+- **Backend**:
   - **PHP**: Lógica de negócios e comunicação com o banco de dados.
   - **MySQL**: Banco de dados relacional para armazenar informações de usuários, filmes e comentários.
-
----
-
-## 🚀 Como Executar o Projeto
-
-charging.....
