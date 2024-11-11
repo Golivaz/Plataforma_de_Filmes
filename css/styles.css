@@ -142,3 +142,44 @@ padding: 40px;
 #footer-links-container {
     margin: 30px 0;
 }
+
+/* Login / Regiister*/
+
+#auth-row {
+    justify-content: space-evenly;
+}
+
+#login-container h2,
+#register-container h2 {
+    text-align: center;
+    border-bottom: 2px solid #F5C518;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#login-container form,
+#register-container form {
+    max-width: 400px;
+    margin: 30px auto;
+
+}
+
+#login-container .form-group,
+#register-container .form-group {
+padding-bottom: 10px ;
+}
+
+.card-btn {
+    color: #000;
+    background-color: #F5C518 !important;
+    border: 2px solid #F5C518 !important;
+    width: 100%;
+    transition: .6s ease-in-out ;
+}
+
+.card-btn:hover {
+    background-color: transparent !important;
+    color: #F5C518 !important;
+    border: 2px solid #F5C518 !important;
+}
